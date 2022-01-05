@@ -4,7 +4,7 @@ Software Design Description
 ## Scope
 
 This document presents the choices of design and implementation to solve a "Mirrors and Laser" problem as described by
-the [source](Reference/Mirrors.pdf) document and reminded by the [problem description](#Problem description).
+the [source](Reference/Mirrors.pdf) document and reminded by the [problem description](#Problem-description).
 
 ## Problem description
 
