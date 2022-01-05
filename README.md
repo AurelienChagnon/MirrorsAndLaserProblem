@@ -7,7 +7,7 @@ This document is aimed for users wanting to solve a specific set of "Mirrors and
 [source document](Documentation/Reference/Mirrors.pdf) and the [overview](#Overview).
 
 This document describes the steps to follow in order to [compile and install](#Compilation) the program,
-[customize](#Customizing the Mirrors and Laser problem) a set of problems and [launch](#Launch and results) the program.
+[customize](#Customizing-the-Mirrors-and-Laser-problem) a set of problems and [launch](#Launch-and-results) the program.
 
 For technical information about the solution, its architecture and its implementation, please refer to the 
 [design document](Documentation/SoftwareDesignDescription.md).
