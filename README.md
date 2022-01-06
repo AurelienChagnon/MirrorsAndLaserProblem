@@ -3,8 +3,7 @@ How to use
 
 ## Scope
 
-This document is aimed for users wanting to solve a specific set of "Mirrors and Laser problem" as described by the
-[source document](Documentation/Reference/Mirrors.pdf) and the [overview](#Overview).
+This document is aimed for users wanting to solve a specific set of "Mirrors and Laser problem" as described by the [overview](#Overview).
 
 This document describes the steps to follow in order to [compile and install](#Compilation) the program,
 [customize](#Customizing-the-Mirrors-and-Laser-problem) a set of problems and [launch](#Launch-and-results) the program.
